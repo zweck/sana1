@@ -1,0 +1,720 @@
+# Sana
+
+## Part 1
+
+### Chapter 1 
+
+Sana stumbles out of her bed. Her room is a mess. She hits the button and her bed slides away giving her access to her wardrobe. Space is a premium in Tokonoya and her piss poor analyst salary only just gets her a studio in the city. Still, better than living in the barren wastes between metropolises. 
+
+She throws on some clothes whilst making her way into the kitchen, dining, living space. Her holopet dog looks hungry "Akata, how many holopet tokens do I have?", "443 came the mechanical voice in her head".
+
+The implant was placed in every kid at school from the age of 12. Originally sold to parents as optional and a great way to keep track of their little precious, it quickly became a convenient and mandatory way for a state to gather mass data about it’s subjects. This was Sana’s job. She worked for the Interior Ministry monitoring feeds and investigating unusual patterns. Speaking of which, "shit, I’m late! Akata, feed the dog 1 bone and give him water, oh and I need a ride to work".
+
+She slams the door on the way out and rushes down from her apartment to the street. By the time she gets there a car appears. She dives in and gets her screen out whilst being driven to work. 
+
+She starts flicking through her todos for the day. Something catches her eye. She sees her apartment complex listed amongst the highlighted cases. A few taps later she’s in the case files. Dr Soum, works for the national grid, good job with a family, pays their taxes on time each month, took a trip on his own to the border last week and was gone for 2 days. 
+
+"I don’t remember seeing that face in my apartment". The car slows at some lights. Even though it’s morning the density of the city shrouds out the sun, neon lights glow in the damp rainy autumn day. "Akata, join my morning meeting".
+
+"Ha. And you worked on it for a _week_!". Sana had joined the meeting late and Kirosan, her boss, was halfway through some banter with her colleague. "Sorry I’m late guys, how are we all this morning?", a chorus of agreeable tones came her way. "Ok so looking at the days schedule we all have something assigned other than me. Kirosan sir, I was thinking of picking up the Dr Soum case, unless you have something specific you want me to look at?".
+
+"Yes yes Sana, that’s fine". 
+
+"Ok guys. See you in a bit. I’m just on my way in". Akata cut Sana off automatically. She’s starts moving again, and pulls up more details about Soum’s case. It was flagged by the intelligence agency when his implant alerted them to his proximity to the border. "Interesting, he took a small detour to a property near the waste disposal site a few kilometres outside the city".
+
+Sana arrives at the office. 
+
+It’s a huge building. In the centre of the city along with all of the other major government departments. Only official vehicles are allowed in the city, yet another advantage of the implant. Enables automatic authorization of visitors. 
+
+The building had a metal facia, it was in a poor state of repair with rust and mould growing on the outside. Dim lights from the surrounding floor lit the dank exterior, the rain was bouncing off the ground. Sana ran from the car into the building. Holding her screen over her head. She walks through the turnstile to meet Kirosan in the foyer, shaking off the rain as she goes. 
+
+"What do you have so far on this Soum case then?"
+
+He knew she would have been researching it on the trip in. 
+
+"Not much sir, he stopped off at a waste site 1km outside of the city centre, I was gonna start there". 
+
+"Sounds good. Sana. Do you know him? It isn’t lost on my that he lives in the same apartment as you".
+
+"Nope. Actually I don’t even remember seeing his face"
+
+"Ok. I look forward to tomorrow’s update. I’m popping out for lunch with a junior minister. Gotta keep the paymasters happy".
+
+Sana makes her way to her desk. Her department is on the 17th floor, when she arrives she sees a few colleagues from the morning call. The floor is pretty empty. Her department has been shrinking for the last few years, not for lack of applicants. Everyone leaves university with the same degree, and then choose which government department they want to work for. Problem is that they all need training as soon as they walk through the door. Which leaves all the work on the few fully trained analysts, the team of which Sana heads up. 
+
+She docks her screen and sits at her desk. Grabbing the CCTV from the waste plant from the government database she starts scrubbing through to find the right time. The imaging database is a mess. Obscure tech from centuries ago storing millions of hours of footage from millions of cameras throughout the city. 
+
+### Chapter 2
+
+"Hello? Hello?! Can anyone hear me?" Dr Baru Soum couldn’t feel or see anything. He tried to move his hands but couldn’t feel them, likewise his legs. "HELP!!" He couldn’t hear anything. Not even an echo. He started to panic, what on earth is going on. Why can’t he see, feel or move?! Then all goes dark. 
+
+### Chapter 3
+
+Sana’s eyes glaze over, 4 hours searching for footage of the waste plant. And nothing. Sure it was easy enough to find something from there. But nothing at the right angle, or on the right day. She may have to put in an escalated request for an interdepartmental data dump. Either way, it was time to grab lunch. 
+
+Most days Sana just used the food machines on level 8. They print food from a bunch of base materials. But today she fancied something fresh. Preferably noodles. 
+
+She leaves the ministry building and makes her way down a busy street. Although only government employees are allowed in this district, that still encompasses a huge percentage of the city. 
+
+Turning a corner she spots her favourite noodle stand. "Hey, dry noodle in chilli oil" Akata pays with her food tokens. Fresh noodles are pretty expensive these days, so Sana limits it to once or twice a month. But they taste so good that it’s worth the expense. Something about the imperfections of real food that makes it unique. 
+
+It’s still raining but not as heavily as before, she spots a sheltered nook under some over-hangings that looks dry enough. Leaning against the wall she takes digs into her noodles. The case of Dr Soum rattling through her head. 
+
+"Akata, make a request to the information ministry for all CCTV footage from the waste site for the hours Dr Soum was there’s. Padded out a couple hours just in case".
+
+"Request sent Sana".
+
+The information ministry works pretty quickly, they have thousands of grunts processing these requests, and her employee ID will carry some weight which should speed things up. 
+
+Akata: "Request rejected Sana. You lack authorization to see these files".
+
+"What!" She blurted out. Much to the surprise of people around her. "Call the information ministry!"
+
+Switchboard: "Good afternoon, how may I direct your call?"
+
+"Information requests, interdepartmental requests".
+
+"Hello Sana, my name is Keyba, are you enquiring about your recent request?"
+
+"Yes, why was it denied?"
+
+"The footage you have requested is missing or otherwise inaccessible, I can escalate to my manager if you like?"
+
+"Please"
+
+Whilst Sana waits for the manager she’s made her way to her desk. She starts searching through the database from her end. She can see that there’s data around that date, "god damn why is it so hard to find anything!" 
+
+"Hello Sana? My manager has said that the data is missing and that it’s been raised through the proper channels. Sorry I couldn’t be of any more help".
+
+Akata: "call ended"
+
+"Akata, call Kirosan".
+
+"No answer Sana" came the mechanical Akata. 
+
+"Fuck!" Sana had a short fuse, and roadblocks was a sure fired way to light it. 
+
+She looks back at her desk. "Dr Soum, what are you up to" she murmurs "nothing for it. I might as well go visit his family". 
+
+### Chapter 4
+
+Suddenly Soum was bathed in light. Excruciatingly bright and all encompassing. Images started streaming in. He was in a dark room, an operating theatre of sorts. He felt a twinge on his arm. Looking down he saw wires coming out of him, coming out of him all over, his arms, chest, face. He panicked. Tried to move his hands. And blacked out. 
+
+### Chapter 5
+
+Sana arrives home, Apartment 3 for the Soum’s. She hesitates for a second, then asks Akata if anyone is home. 
+
+"3 occupants are home Sana. Shall I alert Mrs Soum to your presence?"
+
+"Yes please"
+
+A few seconds later the door opens. "Hello Ms Itakisum, please come in". There was always a faux politeness when dealing with intelligence services. You never know what powers they come with, and thus where you might end up after the conversation. 
+
+"Thank you Mrs Soum", Sana enters a modest and minimalist apartment. It was beautifully decorated. "Your apartment is lovely, just beautiful, makes me feel a bit shitty about my place upstairs". Mrs Soum smiles and gestures Sana to sit. 
+
+"So you know why I’m here Mrs Soum, what can you tell me about your husbands state of mind a few days before he went missing? Anything out of the ordinary?" Sana asks whilst taking a seat on the sofa. 
+
+"Well" Mrs Soum glances in the living room to see if her 2 children are eavesdropping. "He has seemed preoccupation for a few days now, not as attentive with me or the children. He said he had a lot of stress at work, especially with the recent series of blackouts. But we’d had worse situations before and it didn’t seem to affect him anywhere near as much".
+
+"Do you know why your husband may have visited the waste disposal facility just outside the city?"
+
+Mrs Soum looked confused. "Not at all... why do you ask? When did he visit there?"
+
+"The day of his disappearance, he made a de-tour on his way the the border".
+
+Mrs Soum’s face grew dark. She had not been told that the Doctor had gone through the border. Crossing state lines was only permissible with the correct permit. Which was almost impossible to come-by. And trespassing past the border without a permit was a capitol crime. 
+
+"Are you saying that he" she paused "left the state?"
+
+"Yes, were you not aware?"
+
+"No, not at all, there’s no reason to it. Oh please help find him. Please".
+
+Sana remained an hour or so to console Mrs Soum, but retrieved no useful information. She returned to her apartment frustrated. What’s more as she entered virtual flies were buzzing around the kitchen sink and wash baskets. She’d not cleaned up for days and set these pests to remind her. "Urgh, that’s the last think I want to do". Unfortunately virtual flies are more persistent than their long extinct brethren. So Sana had no choice. She had to do chores before crashing out with a glass of whiskey. 
+
+Sana wakes in the middle of the night. Paolo her holodog was a bit buggy. Some nights it would go into guard mode and start barking at the window. Tonight was one of those nights. "Akata, silence the dog with a treat". 
+
+"You have 125 tokens left". 
+
+Sana shoves her head in her pillow and tried to nod back off. 
+
+6am. The routine starts again. Sana retracts the bed, grabs a shower, throws on some clothes and makes her way down to street level, as she leaves she notices some officials entering the building. Probably here to ask Mrs Soum some more questions. She knows better than to ask any details and all surveillance of them will be either censored or restricted. 
+
+Jumping in her car she pulls out her screen to continue scrolling through the last few hours of data before he went missing. 
+
+Akata: "You have an incoming call from The Bureau".
+
+"Accept"
+
+"Ms Itakisum, we’re calling to inform you that we’ve found Dr Soum’s body yesterday, he was mistakenly shot by guards attempting to enter the state".
+
+Sana was quiet, a mixture of disbelief, sorrow and shock. 
+
+"Ms Itakisum?"
+
+"Yes, sorry, thanks for letting me know".
+
+Sana arrives at the Ministry building. She jumps out and makes her way in. Dashing up to the 22nd floor she makes her way to Kirosan’s office. As she approaches she can tell he has already had the news. 
+
+"Kirosan sir. Any more details on what happened?"
+
+"No Sana, just that a middle aged man attempted to gain unauthorised access to the state from outside the border and was shot in the process. The body was later identified as Dr Soum from his implant".
+
+"How does someone successfully get out of the state without detection, and winds up getting shot trying to make their way back in? When getting out is a lot harder than getting in. I assume I’m still on the case sir?"
+
+"Yes of course".
+
+Sana bows and leaves Kirosan’s office. 
+
+At her desk Sana is trawling through the data she has of Dr Soum, a few hours before he bolted and went to the waste plant to the west of the city. After hours of searching she’s starting to get bored and restless. Checking the time she realises that it’s been 10 hours, she’s sat there for 10 hours trawling through this footage and come up blank. The only lead that ended up a dead end was when Dr Soum went from his office in the power ministry to a café 5km away. It made little sense but he had a coffee on his own and then headed back. And no footage of the café revealed anything unusual or suspect. 
+
+Sana called it a day and made her way to a bar around the corner from the office. 
+
+She grabs a bear and sees a couple of colleagues at a table. This place is a regular to Interior Ministry folks. 
+
+After being derided for being Kirosan’s favourite, and hitting back with some sub par banter, Sana gets Akata to get her home. 
+
+At her apartment complex Sana decided to walk past apartment 3. Not really expecting to see or hear anything of note, but as she approached it was clear that something had happened. The door was wide open, the place looked trashed. Sana stepped in, it looked burgled, emptied of almost everything other than furniture. 
+
+"Akata, what happened here?"
+
+"The Soum’s have been detained by The Bureau, all personal possessions confiscated". 
+
+"God damn!"
+
+I need to get to the bottom of this. Tomorrow I’ll head out to that waste plant in person. 
+
+No malfunctioning holopet dog this time, so a sound night. "Akata, get me a ride to the waste plant west of the city". 
+
+"5 minutes".
+
+Sana just downs her coffee before walking down the the street. She passes the Soum’s apartment on the way. No change. 
+
+In the car on her way to the plant she has her morning calls, and then a 1:1 with Kirosan. 
+
+"The plant will be completely automated you know Sana. Your job is at a desk, not in the field. Ideally you’d submit a request with The Bureau to send some goons out there for a physical inspection".
+
+"I know, I’m just hoping that there’s a server at the plant to collate and relay the video feeds. Maybe it’s connection is dodgy or something. Worth a quick look isn’t it Sir?"
+
+"Hmm. Well it’ll do no harm I’m sure. Just be careful, the bots there aren’t really programmed to avoid humans. Old tech to do simple jobs Sana".
+
+When she arrives Sana pays to keep the car there for an hour. Shouldn’t take much longer than that to checkout the on-site servers. 
+
+The waste plant is vast, dark, and motionless. No hubbub of the city, not people, just a bunch of robots moving large containers of waste either into recycling machines, de-atomisers or incinerators. 
+
+There was a narrow walkway to a door dimly lit. Either side of the walkway were huge trenches. Hundreds of meters deep and full of containers. Large lifters were sorting them. The scale made Sana feel tiny and insignificant. The majority of this waste was going to be incinerated, it’s not that it couldn’t be recycled on the molecular level, more that the site manager couldn’t really be bothered to ensure efficient re-use. Easier just to burn it all. 
+
+She made her way to the door. "Akata, is there anyone here?".
+
+"No"
+
+"Ok request access please. Forward it to Kirosan too".
+
+"I’ll let you know once I get a reply"
+
+Sana checked her screen while she waited. She was expecting some updated chitchat between a group of online friends. Or some news worth reading. But her none committal to break the boredom led to nothing more than her clicking and tapping around aimlessly. 
+
+A few minutes later the door unlocked, as Akata informs her that she has been granted full access. 
+
+Through the door was a long concrete lined corridor. She couldn’t really see the end but it looked to be about a kilometre long. She sighs and starts to walk down. 
+
+"Akata, can you locate the server room?"
+
+"You will need to load a map from the central control room at the end of this corridor. No other records of this facility can be found in official databases"
+
+This wasn’t unusual, most state owned databases were incomplete. 
+
+After 15 minutes of power walking, Sana reaches the end of the corridor. There’s one door labelled Central Control Room, it opens as she nears it. Inside is a dusty room with banks of flashing monitors, controls and a large screen with the status of every bot in the plant. 
+
+From the looks of it none had malfunctioned beyond self repair and were humming away nicely. "Akata, which terminal will hold the mapping information you require?"
+
+"Any should do Sana"
+
+She jumps onto a nearby machine. Dusts off the display and looks for the implant jack. A standard connection that slips into your arm to interface with the implant. After a few minutes Akata has found the map and Sana is disconnected.
+
+She notices in the corner of her eye a flashing. Looking up one of the status lights is flashing away red. A container mover is malfunctioning it seems. Ah well. Definitely not Sana’s problem. 
+
+"Akata, server room?"
+
+"The door to your left"
+
+Sana swings round and sees a large green, dusty door with an unreadable plaque. As she nears the door opens in a plume of dust. Inside is a vast room, with aisle after aisle of server racks. 
+
+She looks around for some sign of a control terminal. At the end of an aisle she spots a fold out display, she grabs her screen and syncs it. 
+
+Tapping away she finds the surveillance sub system, she can see the video file cache. "Great, I just need to download it onto my screen and then I can GTFO". 
+
+A spark fuzzes at the end of the row. She leaves her screen downloading and heads over. Lights illuminate in front of her as she goes. Finally she sees the source of the sparks. A severed data cable, probably an external access network, which would explain the lack of video data. "Akata, send a message to The Bureau to investigate this".
+
+She walks back to her machine, on her way back she thinks she sees movement. 
+
+Sana freezes. Her heart rate jumps. She whispers. "Akata, am I alone?"
+
+The lights appear to flicker. Akata takes a moment to respond. It’s the longest moment she’s waited in a while. 
+
+"Yes Sana. We are alone here".
+
+A sigh of relief. Sana grabs her screen and returns to the control room. 
+
+### Chapter 6
+
+"Good morning Dr. How do you feel today?"
+
+Dr Soum felt good, almost normal. 
+
+"Is it over? Is it done?"
+
+"Not quite Dr. It seems we’ve hit a snag. You’ll need to go under again. And soon"
+
+Dr Soum began to weep. The pain was excruciating. 
+
+### Chapter 7
+
+Sana was already in the car and on her way back when she realised, out of irrational fear, that she’d not verified the download. 
+
+She got distracted ordering another car, as her hour must have lapsed with the first one. 
+
+Grabbing her screen she poked at the last actions. "Ok cool. Looks like I got a lot of it. Hopefully it’ll shed some light when I’m back at my desk... there’s a reason I didn’t qualify for field work".
+
+"Kirosan calling"
+
+"Answer. Good afternoon sir, everything ok?"
+
+"I was about to ask you that"
+
+"Yes everything is fine with me sir. I’m just on my way back to the office".
+
+"Well, it’s been 2 days and you’ve not reported in Sana".
+
+Sana hesitated for a minute. "What do you mean? I’ve been at the waste plant for a few hours this morning, and now I’m on my way back".
+
+"...Sana, that message was sent 2 days ago, after which we heard nothing. Your implant went dark. We were just mobilising The Bureau this morning".
+
+"What?!... But... I was just there for a few hours... I..."
+
+"Maybe you should take a couple days leave and come back next week refreshed. Either way I’m happy you’re ok, I’m going to have to go and cancel the missing persons requests. Please consider the leave and get some R&R".
+
+Kirosan ends the call. 
+
+"Two days? Two. Days?!" 
+
+Sana was completely confused and in disbelief. It just didn’t make sense. How was she out for two days? She pulls up her screen and starts searching for her location history, sure enough, she was at the plant for 2 friggin days! What the actual fuck?! 
+
+Sana arrives home, she sits at her dining table, a bowl of ramen going cold as she pours over hours of surveillance footage of the waste plant. 
+
+Although she was sure that the download from the servers showed the time range Dr Soum visited. She couldn’t see any evidence of him actually being there. There’s just hours and hours of robots milling about. The rhythm is mesmerising, but unfortunately elucidates nothing for her. 
+
+Tampering with the implant was illegal, it was connected to state controlled servers, and the data is often used in many court cases. It was Sana’s primary source of information when researching, falling back on CCTV to try and help visualise scenes. However in some circumstances the Interior Ministry can request for 3D reconstructions of scenes, using all known data of the detected implants in the area. 
+
+In Dr Soum’s case, he didn’t seem to interact with any implants that were out of his routine. Sana was giving up for the evening, she’d spent all evening searching through implant and surveillance data around the waste plant. The implant data confirms he stopped off there for a few moments before carrying on to the border where he went dark. 
+
+For obvious reasons implant tracking stopped at the border. Although the Tokonoyan government have tried to launch satellites that can track citizens past the border, they have all been subverted. The city state, in what was old Japan, build a huge border wall around itself to protect citizens from another war. They’ve had peace now for centuries. The people of Tokonoya don’t even think about the wars of old in their days to day lives, or even their old enemies. 
+
+However border expansion is mentioned, as the population grows and grows, but they found other ways to solve that problem. Namely shrinking the size of dwellings and building vertical layers in the city. The higher up you are, the wealthier you are. 
+
+What this results in is a very concentrated set of implant data, and literally no data outside of the walls. So when someone was crazy enough to go through the border, they went dark. But I made implants entering Tokonoya super easy to discover, a general alert was sent to a handful of government ministries the second that event occurred. 
+
+However, that event won’t occur for Dr Soum, thought Sana. As his body has already been found. Her face scrunched up as she frowned. 
+
+"Wait wait wait" she said aloud. 
+
+"Akata, where is Dr Soum’s body?"
+
+"At The Bureau mortuary"
+
+"Get me a car, I want to go there please"
+
+Sana checks herself in the mirror and dashed out with her screen. 
+
+### Chapter 8
+
+"Doctor?"
+
+"Doctor?"
+
+"It’s done. It was successful. Can you open your eyes?"
+
+Dr Soum begins to wake. "Yes, yes I think I can"
+
+"It’s done you say? No more procedures?"
+
+"Correct sir. We’re done. Once we have you healing we’ll let you go"
+
+### Chapter 9
+
+Sana arrived at the morgue, it was late and the lights were off. It was in the basement of a government building right in the centre of the city. Most citizens don’t even know it’s there. 
+
+She walked through the steel door, reception was empty, but she worked her way into the building until she saw a mortician. Daniel was working away, removing the innards of some poor sod. 
+
+Sana approaches "Good evening, I’m with the Interior Ministry, I’m looking for a body brought in yester... a few days ago. Dr Soum".
+
+"Dr Soum" he said, inquisitively "ah yes, the border shooting. This way" and he hurried down a corridor. Sana follows. After a few twists and turns they end up in an autopsy room. "Here’s Dr Soum Miss"
+
+"Thanks, if you have a moment I’d like to ask you some questions about him?"
+
+"Sure, my clients aren’t going anywhere fast"
+
+"First off, was there anything unusual discovered during the autopsy?"
+
+"Not really, I mean The Bureau watched every step of the way but otherwise it seemed clear cut. Poor chap was shot twice in the chest and once in the neck trying to enter Tokonoya"
+
+"His implant, has it been extracted?"
+
+"Yes, of course. It’s plugged in over there" he points to a terminal at a large desk just a few meters away. "But you can’t take it. That’s one thing The Bureau made clear, once we’ve used it to confirm identity they the want us to pass it over to them. 
+
+The implants were cryptographically signed, the private key was the hosts heartbeat. This was to ensure only your implant could be used in you. There was speculation that they were build with a government backdoor, but it seems in this case the private key is needed. As such Daniel was going to have to remove the heart and place it in a stimulator, which mimicked the last few beats of the owner based off muscle memory held in the organ itself. It was an extremely delicate procedure which had to be performed no more than a few days after death, otherwise the heartbeat wouldn’t be a close enough match and the implant would stay locked. 
+
+"I could really do with knowing Dr Soum’s whereabouts a few nights before died, as well as Brain Image Recordings"
+
+"The BIR’s are for Bureau eyes only I’m afraid. However the other stuff is no problem. Let me try and get this thing unlocked"
+
+Daniel places the heart in a glass cylinder with full of fluids and flanked by electrodes. After a few seconds the heart began to beat erratically. 
+
+"We have to wait now. Hopefully we’ll trigger a response that’ll unlock the implant, it could take a few minutes or hours"
+
+"Hmm ok. Can you tell me, is there anything peculiar about Dr Soum’s injuries, or anatomy in any way. Can you see evidence of any struggles, bindings or anything on his person that may relate to a waste management plant?"
+
+"Ok wow, that’s a lot of questions... and I’m not sure I have time to go through them all with you, unless..." Daniel tapped his screen.
+
+Sana knee what this meant, he wanted bribing. It was common throughout Tokonoya, especially within state ran facilities. Bribery was rife in the Interior Ministry for example. 
+
+"Sure, you have a holopet?"
+
+"Oh yes, Buster, my pet Owl, he’s the best!"
+
+"How would buster like 400 extra tokens?"
+
+"Hmm, he’d like them enough to answer your first 2 questions. No and no. There, now let me get back to my job. I’ll contact you once his Implant is unlocked"
+
+### Chapter 10
+
+Dr Soum was finally walking around the facility. It’d been a few days since he arrived and apparently his progress was _astonishing_. He was just happy to not be plugged in and going under again. The first day after the procedure was the hardest, but since then things have got easier. So much so that he was ready to leave. 
+
+He checked with Zhou, who performed the majority of the procedure on him and was the head of this cell, when he was able to leave?
+
+"We have your escort almost ready Dr, you should be able to leave tomorrow, are you sure you want to go back to Tokonoya? After all this effort it seems somewhat pointless?"
+
+Dr Soum just smiled at Zhou, "tomorrow then".
+
+### Chapter 11
+
+It was a few hours later when Daniel wheeled over to Sana who was faffing with her screen. "It’s done, the implant is decrypted"
+
+"Great, let me interface with it?"
+
+"Sure. There’s a port on the reader, you should be able to remote to it from your screen"
+
+Sana connected to the implant. Immediately she could see the BID data firewalled. No way of seeing that without being fired, or worse. She starts pouring over the location data. She already knew his movement inside Tokonoya, but she was interested in whether any data could be gleaned from the implant about his movements outside the walls. 
+
+She could tell that he travelled about 15 miles outside the walls. That’s not far enough to get to any civilisation she’s aware of. He then stayed stationary for four days before making his way back. 
+
+As all implant data within Tokonoya is streamed to the Interior Ministry, this was the only useful information she had. 
+
+One thing to note was that during his stay outside the walls, the implant data seemed scrambled. There were entire blocks of zeros where sections of data recoding were completely empty. "Very interesting" thought Sana. 
+
+"Thanks for your help. I’m not sure there’s much more I can get from it now"
+
+"No worries, thanks for the tokens!"
+
+Sana leaves the morgue. 
+
+"Akata, put in a request with The Bureau for Dr Soum’s BID data"
+
+Akata made a confirmatory tone. 
+
+### Chapter 12
+
+Dr Soum was handed a pack by Zhou. 
+
+"This should have enough supplies to get back to the wall, I have your escort ready. Are you ready to move out?"
+
+Few people lived in the wastes between the cities. It was a nomadic lifestyle. Lawless but peaceful. Many who lived outside city walls did so because they were either wanted, or engaged in activities deemed illegal by the city states. 
+
+Some communities existed, and trade was healthy, but the majority of the land was taken up with centuries old buildings. Left empty after the wars and walls. 
+
+Dr Soum was with an underground group of smugglers and cyberpunks. His tokens were no use out here, so he had to trade something else. 
+
+He’d contacted the group via a connect in work. A few people had left Tokonoya before the authorities got hold of them. It wasn’t hard to get in touch with Zhou’s group. But all communication had to go over the wall physically, or via one of the underground hacked data lines. Physical was best though. 
+
+This is how Soum began his negotiations with Zhou, he was a high ranking engineer for the power department, the one thing he had worth trading for this huge and dangerous effort was knowledge. Zhou was undergoing some large engineering projects, mainly trying to build a hydro plant to supply energy to the community he was building. The trade seemed fair, Soum would clearly document how to repair and install the generators scavenged from nearby plants into the damn already build by Zhou’s people. 
+
+Luckily for Soum the generators were in good condition, so just a few wiring diagrams were needed and his debt was paid. 
+
+Now he was about to embark on the most dangerous part of his journey. Returning to Tokonoya. He was with a party of 6; including his escort, Zhou and 4 armed guards. 
+
+Even though there was peace between the groups outside the walls, they could never be sure that either opportunists or worse, patrols from the city states wouldn’t run into them. 
+
+They were packing an armoured vehicle, which was undergoing some last minute configuration by a tech. They regularly cycled the radio channels and stealth settings. The vehicle was as much a driving super computer as an armoured personnel vehicle. 
+
+Zhou was already in the passenger seat with one of the guards driving, he leaned out he window to talk to Dr Soum. "So we’ll drive about 20 miles to a known dark zone. From there we’ll continue on foot for the last 5 miles. We can discuss the specifics en-route. Jump in the back and get buckled up, I’d like to move out soon"
+
+Soum wandered to the back of the truck whilst watching a hustle and bustle of people working on all sorts of vehicles, things he’d never seen before. All of which looked far more advanced than anything in Tokonoya. It amazed him that even without the capital and commerce of a city state, these people were able to live and trade. 3D printing had solved many of the supply chain issues, but raw materials were still required, and formed a large part of the trade out in the wastes. 
+
+He jumped into the back of the APV and buckled up. After about 10 minutes of rumbling along in silence, Zhou spoke up. "So, the plan is to split up once we’re a mile or so away from the wall. I’ll go with the decoy team and Hoya here will lead your team", Zhou patted the drivers shoulder. 
+
+In the back of the APV sat Soum, his escort or decoy as Zhou called him, and three guards. They were engaged in light banter between them. Although armed to the teeth and clearly highly skilled they seemed somewhat gentle in their demeanour. Soum smiles at one of them politely, and he immediately engaged in some small talk. 
+
+The conversation developed into talking about the need for trained guards out in the wastes. 
+
+One of the guards began to elaborate past the non-answers given by his colleague. "It’s the city states. Especially Tokonoya, but Fintola too. They can’t stand us living out here, infiltrating their networks and helping people" he was suddenly cut off by Zhou who glared at him. 
+
+"Dr Soum, we have a clear agreement, and we shall uphold our end to our best. But please don’t ask too many questions about our dealings with the city states"
+
+An awkward silence fell for the remainder of the journey. 
+
+### Chapter 13
+
+Sana’s forced leave was over, but she’s not stopped working on the case of Dr Soum. Every turn just seemed to lead to more questions and no answers. It was a maddening state of affairs. Her holoflies had multiplied as she spent more and more time mapping out Dr Soum’s movements and investigating all human contact he had over the course of the weeks before his disappearance. 
+
+She was in the car on her way in, following some spurious connection between the bagel stand Dr Soum used, and a smuggling network outside the walls; but it was leading nowhere. 
+
+The car pulled up at her office and she hopped out. Just before she made it into the building she was stopped by someone.
+
+"Hi, is it Sana?"
+
+"Yes."
+
+The question was redundant as Akata will have told him exactly who Sana was. 
+
+"How can I help?"
+
+"I work for the electricity board, I was a friend of Dr Soum. I believe you’re investigating his disappearance?"
+
+"Yes that’s right... how did you know?"
+
+"I have friends in The Bureau. They gave me your name... I have some information that may be of use to you. Is there somewhere private we can talk?
+
+The man in front of Sana was about 1.8 meters tall, wore a short coat with a white T-shirt and combat pants. He had a rucksack on and a screen in his hand. His tone was extremely polite and he seemed harmless enough. 
+
+"Sure, down here"
+
+Sana walked down an alley next to the ministry building. She stepped into a doorway. 
+
+Suddenly the man grabbed Sana by the arm. "You‘be got to stop looking for Dr Soum. Please. He’s gone and there’s nothing we can do to bring him back. But looking for him is putting me and my friends in great danger. Please!"
+
+### Chapter 14
+
+The APV slowed silently to a halt. Zhou started punching away at his screen. A few minutes later he turned to the passengers. "The vehicle will stay here, it’s stealth tech will keep it hidden from Tokonoya’s drones and it can scan the skies and keep us informed of their whereabouts"
+
+Soum was amazed at the sophistication of the tech out in the wastes. He’d often assumed, and been told that those who lived outside of Tokonoya were lawless savages. It turned out that the wastes were full of free people, trading, manufacturing and living lives in comfort and peace. Soum started to see why there’s so many Tokonoyans leaving the city. It seemed mad at first to him, but now he sees what life it like, it can understand it. 
+
+He grabs his pack and looks to Hoya, he nods and starts to move out. Zhou extends his hand to Soum, "thanks Soum and good luck, if you ever wanna get outta Tokonoya, we’re here for you man. No worries we’ll get you back out if you need it".
+
+"Thanks Zhou, I hope we meet again".
+
+Soum chases after Hoya, with the other guard bringing up the rear. They marched in silence for 20 minutes or so when Hoya’s wrist screen started alerting him to a nearby drone. He fell to the floor and looked back at his squad, Soum wasn’t far behind on the ground as was Frile. Hoya crawls back to them, "it’s going in Soum’s direction. He should be near the wall by now".
+
+Just as Hoya finished the sound of gunfire echoed through the valley. After a few seconds it stopped. He checked his wrist screen and his face grew dark, "we should move out as quickly as we can"
+
+"What’s happened?!" Soum urged. 
+
+Hoya didn’t answer, which was answer enough for Soum. They were just a few hundred meters away from the wall, Soum could see a small concrete structure with a steel door. Hoya was running towards it, he opens the door and they all file in. 
+
+Hoya closes and locks the door. "This tunnel is a maintenance tunnel from centuries ago, it’s hardly used now but it’s still routinely checked by drones to try and stop anyone leaving Tokonoya. Keep close Dr, this is the last, and most dangerous stretch of our journey". 
+
+"I’m exhausted, is there no chance of a few minutes rest?"
+
+"Sure, I’d feel more comfortable doing it a bit further up where we have multiple egress points". 
+
+They walked a few minutes until there was a fork in the tunnel. The group sat and took their packs off. Soum grabbed his water bottle and took some deep gulps, it tasted sweet and cool. He reflected on his journey so far, "I hope to god it’s all worth it!"
+
+"You and me both!" Hoya said with a tone of frustration and stress. 
+
+After a few minutes of rest and replenishment, Hoya puts his pack on and starts to make his way down the left fork. Soum and Frile followed him down a long disused tunnel; there were clear signs of decay all around, the concrete was cracking and loose. 
+
+"What are these used for?" asked Soum
+
+"The tunnels were part of the architectural inspection routes for the walls. When they were first build centuries ago there were a feat of engineering, now they seem simple, these tunnels were used to inspect their foundations, most have been sealed but we discovered a few which were only partially sealed, after a lot of work we managed to get them open and have used them for smuggling ever since. Tokonoya state are aware that they’re open, but rarely do drones or police venture down here".
+
+They walk in silence for a few more minutes. 
+
+"We’re close to the exit, it should return  you to the outskirts of the city. Your absence will have been noticed by the Interior Ministry. I suggest you go to our contact, Meeral, she’ll be able to hack their net and tell you whose leading the investigation and what they have on you so far".
+
+"Thank you for everything Hoya, and thank Zhou for me too, if you can". 
+
+Hoya nodded and they walked the last few minutes in silence again. 
+
+The team arrived at a sealed steel door, Hoya unlocks it and it opens into a derelict warehouse. Soum looks around and sees no signs of life, or worse drone patrols. He leaves the tunnel and looks back at Hoya, who nods acknowledgment before closing the door and sealing it from the inside. 
+
+### Chapter 15
+
+Before she realised what was happening the stranger let go of Sana and rushed off. She gave chase. 
+
+"Akata, contact local squaddies, co-ordinate his position with them and find a route to trap him in"
+
+Sana was gaining ok him slowly as he darted between streets and ran around people. He dived into an apartment complex and started to make his way up. She followed him, Akata altered her "the local enforcers are surrounding the base of the building. A handful are following you up here"
+
+She could see the man a few flights above her, she pressed harder to try and catch up with him. She was just a few feet away when she tripped. Or more importantly, was tripped. The stranger turned and grabbed her, everything went dark. 
+
+"Akata emergency protocol!"
+
+...
+
+"Akata!"
+
+... 
+
+Sana tried to talk, but no words left her mouth. 
+
+### Chapter 16
+
+Soum looks at a piece of paper Hoya gave him with Meera’s address scribbled on it. She was in the Shinbata district, a poor area on the outskirts of Tokonoya. At least he wouldn’t need to go through the city centre to get to her. 
+
+He leaves the warehouse to try and get his bearings. As he exits he realises he’s in a similarly poor neighbouring district to Shinbata. Tokonoya Central is clean and wealthy, but the majority of the surrounding districts are poverty stricken and neglected. Wealth was centralised under decades of reckless monetary policy, at first people kept voting for more and more spending and welfare policies but when nothing changed they gave up, resorting to either the black market or other nefarious and illicit trade to try and make ends meet. 
+
+Soum navigates the intricate backstreets of shops and apartments until he gets to the address listed. It’s a hodgepodge of holovendors, peddling everything from flies to sexholos. One of these neon lit vendors matches the address.
+
+"I’m looking for Meera?"
+
+The shop assistant looked him up and down. 
+
+"How do you know her?"
+
+"I was sent here by Zhou" Soum didn’t really know what else to say. He hadn’t really prepared for much of his return to Tokonoya. 
+
+"She’s in the basement. Follow me"
+
+Soum follows the assistant to a hatch in the floor, she opened it and walked Dow the stairs. 
+
+I’m the basement was a large frosted glass cube.
+
+"It’s a quiet room, no radio signals in or out. Akata will be useless in there". 
+
+She gestured to the doorway. Soum nodded and walked in. 
+
+Inside was a middle aged woman, she had short black hair and was dressed in a black T-shirt and black combat pants. She had a prosthetic arm which was connected to a terminal. 
+
+"Soum I presume? Zhou told me to expect you. You’re after info on the investigation into your disappearance?"
+
+"Yeah, I need to know if it’s safe for me to return to my family"
+
+"Well, I’ll tell you what I’ve hacked. The Interior Ministry are looking into your disappearance. It’s a high priority investigation but they’ve not got far. Agent Sana is heading up the analyst team it seems. I’ll upload her implant ID into yours so you can track her. I trust you no longer have the Akata implant?"
+
+"No, I have the FP version".
+
+"Great, come over here and let me give you her details"
+
+Soum walks over to her desk hesitantly. Meera pulls out a scanner and waves it over his neck. A green light flashes in Soum’s vision. He hears a voice ask him, "do you wish to accept the data upload from ID#3464247 aka Meera?"
+
+"Er.. yes"
+
+There was a pulsing yellow light and then back to green. 
+
+"All sorted then Soum, the investigation’s only just begun. I’ve seen that there’s a trace of you stealing data from the waste plant in the suburbs, Sana hasn’t retrieved that yet so you should probably get ahead of it. Your FP implant is a huge upgrade on Akata, but I assume you already know that, otherwise why would you of risked everything to get it"
+
+"Thank you Meera, what can I do to pay you back?"
+
+"Keep fighting Soum. Don’t let them win"
+
+Soum nods and leaves. He makes his way to a noodle bar nearby to contemplate his next move. He’s gotta find his family but he can’t do that if the authorities are still looking for him. 
+
+### Chapter 17
+
+Sana wakes up like a bulb being turned on. It’s not that she was asleep or knocked out, she just wasn’t and now is. Light comes rushing into her vision as she’s blinded by the daylight. After a few seconds shapes start to become more defined. 
+
+"Sana. I’m sorry about this"
+
+Sana tries to get up but can’t. She tries to move her hand to shield her eyes but can’t. She can’t move at all. Panic begins to set in, her heart rate quickens, fight or flight kicks in but all she feed is the immense frustration of being trapped. 
+
+"I really need you to stop looking for me, I can’t think of what else to do, every option leads to you just going back to work trying to hunt me down"
+
+"S... Soum?"
+
+Sana shuck her head. "Of course not. Soum’s dead. You must be from my last investigation. Which makes you Yojimata, the gang leader. But we caught you and put you away, did you escape?"
+
+"Sana, before I proceed let me explain something to you"
+
+### Chapter 18
+
+Soum finished his noodles. His new implant could read his thoughts, it was secured and totally private, impossible to hack without a direct link and direct approval from him. All he had to do was think about Sana, and all the data stored on his implant came streaming in. Meera has said she’d not found the traces at the waste plant yet, but he couldn’t leave it to chance. 
+
+The waste plant was 50km away, so he’d have to risk a taxi. Luckily there was a screen in his pack so he at least would have Akata transferable tokens to pay for a cab, he grabbed the screen out of his bag and ordered his ride. 
+
+A few minutes later his taxi appeared. He jumped in and assigned his account on his screen. If he’d still had Akata this would have all been automated but seeing as he’d gone FP its now a little bit more laborious. 
+
+After an hour or so Soum arrived at the waste plant. He’d used the time to get to know his new implant a bit better. This think was phenomenal, so powerful it almost scared him. He was however reassured that basically everyone in the wastes had one, so at least it wasn’t dangerous.  
+
+He got out of his ride and it wizzed off. Looking at the waste plant a chill went down his spine. 
+
+"Let’s make this quick, get in, erase the traces and get out"
+
+He was at this plant a few short days ago, stealing AI tech for trade with Zhou. Although his mind was the real value, part of the deal was AI tech found in the auto cleaners and other bots in the plant. Is seems like he’d left a digital fingerprint that he needed to erase before Sana decided to investigate it further. 
+
+Soum makes his way to the control room, then he opens the large green door to the server room. He closes it behind him. Last time he was here was when he stole the AI data, for that he had to disable to CCTV manually by literally cutting the cable to that particular server. 
+
+Now he’s here to make sure that he finishes the job. He jacks into a terminal with his screen and starts searching for caches, after a few minutes he’s found the video cache, file access cache and connection cache. Just as he’s starting to erase it Soum hears a noise in the control room. 
+
+It’s Sana. His implant is streaming data about her right into view.
+
+"Fuck", Soum’s hides as best he can. 
+
+After a few minutes the door to the server room opens. Soum starts to panic. He sees Sana connecting her screen to a terminal. 
+
+"Fuck fuck fuck. I’ve not erased the cache yet. There’s nothing for it. I’ll have to get her screen off her"
+
+He sees Sana wandering from the terminal to the cut cable. 
+
+"Now’s my chance"
+
+Soum rushes towards her as quietly as he can, once he’s in range he commands his implant to black her out. 
+
+Sana collapses on the floor in front of him. 
+
+Soum gets to her screen and begins wiping the cache. He also clears it all from the servers, a quick double check and he goes and sets Sana’s implant to wake in 48 hours. 
+
+"Hopefully that’s enough to ruin any chance of an investigation"
+
+### Chapter 19
+
+Soum looks in the mirror. This face still took some getting use to, but then it’s only been a couple days. He’s taller too, the new perspective was disorienting. His host was young and well build, but he felt older than ever, Zhou had found him a superb body, but the mental leap from his old body to this new one was always going to be hard. Zhou had warned him not to think about it too much, just let it be and the mind will adjust. 
+
+"Sana, I am Soum"
+
+The words were harder to say than he expected. 
+
+Sana sat in utter confusion. How could the person in front of her claim to be Soum. Was the heartbeat analysis somehow spoofed? Seem implausible but perhaps possible. I mean he clearly has some advanced tech that allows him to hijack her Implant and use it to disable her. That much she’d figured out in the few minutes she’d regained consciousness. 
+
+"If you’re Soum. Who’s body turned up in the morgue last week?"
+
+"That was the old me. This is the new, or should I say current me".
+
+This was too much for Sana to process. Was this man in-front of her suggesting that he in fact _is_ Soum, as was the body shot outside the wall. How can that be?!
+
+"I see you’re confused Sana, expectedly, let me explain. The Implant is more than a convenience, you use it as an integrated personal computer. Pay bills, organise your life, connect to the Tokonoya net, but what you don’t know about is it’s deeper integrations. It’s cognitive integration. Akata is more than a personal AI". 
+
+Soum begins to explain his discovery whilst working at the electrical facility. 
+
+He was researching how to better integrate Akata into the power stations control system. 
+
+"Jinsan, did you compile a new kernel version with the Akata hooks in it?"
+
+"No Dr, I’ve hardly touched that part of the code base for months".
+
+"Hmm, strange because there are traces of Akata here. Let me dig some more"
+
+Soum spent the next two days unfurling and hacking into the control system. After which the real purpose of Akata became clear. It was a decentralised artificial intelligence that controlled everything. 
+
+The discovery terrified him because something else became clear, Jinsan _had_ compiled a new kernel. The electrical facility had a hardline into the Interior Ministry and The Bureau who were working with Akata to not only control all of Tokonoya, but via The Implants also control Toyonoyans. 
+
+"It’s why I had to disable your Implant, to stop Akata from listening in, or worse gain control of you to stop me. I’m not some freedom fighter and I’m not after a revolution. I just want me and my family to be free of Akata and Tokonoya".
+
+This was a lot for Sana to take in. She started to consider how integrated into her life Akata was, she didn’t even remember _when_ he was implanted. Life without Akata scared her and she recoiled, beginning to reject his ideas.
+
+"You’d say anything wouldn’t you Soum. You’re nothing more than a cyber terrorist. An enemy of the state! You’ve got a hackable implant and now you’re here to wreak havoc and gain power!"
+
+The rumour of an open source version of The Implant had existed for a while. Called the Free People’s Implant, Sana has heard how it might be able to integrate into the net and circumvent firewalls put in place by the Interior Ministry. She had discounted a lot of this as rumours and hearsay but now she knew it was real. How many of these terrorists were in Tokonoya? What was their ultimate goal? 
+
+Either way her immediate predicament remained. She was being held hostage by Soum with no ability to control her actions. Sana suppressed the raising emotions of the consequences that led to. Instead she focused on what _was_ in her control. 
+
+"Explain how the heartbeat analysis identified the body in the morgue as Soum, and you claim to be Soum too!"
+
+
+
+
+
+
+
+
+
+
+
