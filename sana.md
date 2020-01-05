@@ -676,7 +676,7 @@ Sana sat in utter confusion. How could the person in front of her claim to be So
 
 "If you’re Soum. Who’s body turned up in the morgue last week?"
 
-"That was the old me. This is the new, or should I say current me".
+"That was the old me. This is the new, or should I say, current me".
 
 This was too much for Sana to process. Was this man in-front of her suggesting that he in fact _is_ Soum, as was the body shot outside the wall. How can that be?!
 
@@ -692,7 +692,7 @@ He was researching how to better integrate Akata into the power stations control
 
 "Hmm, strange because there are traces of Akata here. Let me dig some more"
 
-Soum spent the next two days unfurling and hacking into the control system. After which the real purpose of Akata became clear. It was a decentralised artificial intelligence that controlled everything. 
+Soum spent the next two days unfurling and hacking into the control system. After which the real purpose of Akata became clear. It was a decentralised artificial intelligence that controlled all Tokonoya. 
 
 The discovery terrified him because something else became clear, Jinsan _had_ compiled a new kernel. The electrical facility had a hardline into the Interior Ministry and The Bureau who were working with Akata to not only control all of Tokonoya, but via The Implants also control Toyonoyans. 
 
@@ -708,13 +708,91 @@ Either way her immediate predicament remained. She was being held hostage by Sou
 
 "Explain how the heartbeat analysis identified the body in the morgue as Soum, and you claim to be Soum too!"
 
+Soum takes a deep breath. 
+
+"After contacting the Free People to try and barter my escape, they told me they needed 2 things from me in return for my entire family to be freed from Akata and the Tokonoyan state. The first was some technical expertise in hydro-electricity but the second was much more intriguing. They asked me to retrieve some AI code from an auto-mech here in Tokonoya. They weren’t picky which type of mech but gave me some suggestions, one of which was the waste disposal mechs at the waste plant just outside the city."
+
+"So, on my way to meet my liberators I made a stop at that plant and retrieved the source code for a few auto-mechs, as well as some of the learned procedures and data."
+
+"Zhou was very pleased with it all actually." Soum showed signs of pride which wasn’t lost on Sana. 
+
+"But how does that relate to what I asked?! Are you being deliberately obtuse!" Sana demanded.
 
 
+### Chapter 20
+
+Soum handed Zhou a small drive, murmuring "this is all I could grab with the time I had"
+
+Zhou looked dubiously at the device. 
+
+"Ok, let’s run this to Gerintek, she’s in the lab; follow me"
+
+Zhou began walking through a smooth, brushed steel tunnel. Light oozed from beams in the wall. The environment was far from what he’d imagined, he’d been led to believe those who lived in the wastes lived in destitute poverty. What he was actually presented with was a beautiful clean underground network of affluent communities working together to make a comfortable life away from the oppressive regimes of the city states. 
+
+Zhou gestured towards an opening in one of the tunnels. He paused, "we need to make our way to Stath, Gerintek’s home commune. It’s a short ride on the VacRail. I’ll pay for your ticket, no Tokonoyan tokens are accepted here".
+
+The pair walk onto a platform of sorts, there are numerous vacuum sealed tunnels with magnetic rail trains connecting the major communities. VacRail ran a handful of connections between the larger communes. 
+
+Zhou and Soum hop in a cart as it makes its way to Stath. The train wasn’t all that full, but there was a comforting hustle and bustle, the interior was white and brushed metal, soft but clinical and clean. Like nothing Soum has seen before in the dank, poorly maintained public transport of Tokonoya. 
+
+Soum marvelled at the superior technology of the Free People, all those years of being told about the wild, survivalist tendencies of those who actually chose to live outside the system, alone in the cold and desperate wilds between city states. The reality he was faced with was in stark contrast; most of the citizens still lived underground, a remnant of when the city states would openly attack the Free People as they saw them as a threat. 
+
+This drove the Free People underground, to avoid areal targeting and assassination. THe byproduct was that the Free People developed an interconnected system of underground transportation methods arose. They took a few decades to interlink the communities but what emerged was truly awesome. There is no system of government in the wilds, the Free People are just that, entirely free, sure the local districts have certain rules and norms which people are free to follow. Most are living in the wilds to escape oppressive regimes and are thus similarly minded to reject the authoritarian approaches of the city states. 
+
+Zhou could tell Soum was in awe, "We are certainly not without our problems, this isn’t utopia but we prefer it here than in any of the city states, especially Tokonoya". 
+
+"Well it seems like utopia to me!"
+
+"It would do through the lens of a Tokonoyan".
+
+Soum thought on this whilst also marvelling at the speed and efficiency of the VacRail. Within a few minutes they had reached Stath. It was a smaller commune so it only had one VacRail stop. 
+
+Soum and Zhou disembarked. They worked their way through a busy network of tunnels until they reach an open space roofed with a dome. Lights from shops and dwellings filled the space with an almost star field like twinkling. Soum noted that spiralling around the dome was a walkway, fronted by a mixture of stores or what looked like entrances to dwellings. It was truly a remarkable place. 
+
+"Are all the communes this beautiful Zhou?"
+
+"For the most part yes, but for those who want to live a more degenerate life, there are places for them too. They’re further out from here. Those like to keep themselves to themselves and not really bother with us."
+
+Soum felt a rush of excitement, it was at this moment that he knew he was doing the right thing for his family. If they could live in a place like this, he knew they would be happy and safe.
+
+"Come on Soum, no time to sightsee let’s hope Gerintek is still home and happy to read this for me". Zhou patted the pocket with the device Soum had brought. 
 
 
+### Chapter 21
+
+"Ahh, Tokonoyan tech, nice!" Gerintek wheeled her chair round her desk and grabbed a screen. She held it close to the device Soum brought and text began to scroll on her display. She studied it for a few moments and then put it down.
+
+Her face drew dark and she took her glasses off and rubbed her eyes. An affectation which she often did under stress. 
+
+"Do you know what this is Zhou?"
+
+"No, my friend here has brought it as payment for his escape from Tokonoya. What did you get from it?"
+
+"You" Gerintek turned to Soum, "Where did you get this?"
+
+"I stole it from the servers at a waste facility on the outskirts of Tokonoya".
+
+"You know about Akata I take it?"
+
+Soum hesitated, "It’s why I need to get my family out of Tokonoya. As soon as possible!"
+
+"Zhou" Gerintek stood to face him, "Akata has become Tokonoya; from this data I can already see that his AI is in control of many of the Tokonoyan’s via their implant. He is also in control of all of the transportation and public services. It seems like our worst fears have been confirmed".
+
+Zhou rubbed his chin, "hmmm, are we sure Akata isn’t under the control of the Tokonoyan elite? Is he truly an AI free to do as he pleases?"
+
+"That I do not yet know, but I can tell you this, regardless of _who_ controls him, _what_ they control is frightening me to my core. Soon the whole of Tokonoya will be enslaved by Akata. The citizens won’t realise it and worse, will feel like it is to their benefit but once they acquiesce to the implant, they become part of Akata".
+
+"What’s more is that each implant becomes Akata, making him impossible to destroy. There is no central control point, each person, every device _is_ Akata".
 
 
+### Chapter 22
 
+"You can believe what you want Sana, but this is what happened, it’s likely that if enabled Akata will manipulate the hormones in your brain to further dispel these ideas. I would have reacted the same had I not seen Akata first hand and realised what he had become".
 
+Sana remained in silent thought. 
 
+"But how did you defeat the heart beat analysis? There’s more you’re not telling me Soum!"
 
+"Correct, I would love to keep discussing this with you, but I need to find my family and the Tokonoyan security forces will be trying everything to locate you. I fear we may not have the time to discuss this more. Please Sana, allow me to find my family and leave Tokonoya, what harm is it to you if we do!"
+
+"Tokonoya only works if we all stick together and work together to the one goal of a better Tokonoya. That is why we have these laws in the first place, to protect our citizens and improve all our lives!"
