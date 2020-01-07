@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(2.2865,0,0,2.2865,-823.36,-514.6)">
+        <g transform="matrix(1.4772,0,0,1.4772,-530.744,393.592)">
+            <text x="640.176px" y="108.823px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:288px;fill:rgb(241,95,50);">0<tspan x="772.365px " y="108.823px ">1</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,-121.925,181.162)">
+            <text x="513.501px" y="319.062px" style="font-family:'Staatliches-Regular', 'Staatliches';font-size:288px;fill:rgb(35,31,32);stroke:black;stroke-width:1.75px;">s<tspan x="633.309px " y="319.062px ">a</tspan>na</text>
+        </g>
+    </g>
+</svg>
