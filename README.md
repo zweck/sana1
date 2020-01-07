@@ -2,7 +2,7 @@
 
 # Sana
 
-Sana is an analyst at the Interior Ministry for the city state of Tokonoya, but when presented with a intriguing case of a missing engineer. 
+Sana is an analyst at the Interior Ministry for the city state of Tokonoya, but when presented with a intriguing case of a missing engineer, she's exposed to concepts that shakes her identity and understanding of reality. 
 
 
 
