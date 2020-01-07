@@ -2,6 +2,8 @@
 
 Sana is an analyst at the Interior Ministry for the city state of Tokonoya, but when presented with a intriguing case of a missing engineer. 
 
+![](sana01.svg)
+
 ## Chapters
 - [Chapter 1](https://github.com/zweck/sana1/blob/master/sana.md#chapter-1)
 - [Chapter 2](https://github.com/zweck/sana1/blob/master/sana.md#chapter-2)
