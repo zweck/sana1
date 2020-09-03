@@ -880,4 +880,82 @@ What now? She’d never considered what’s to do if Akata didn’t respond. The
 
 “Nothing for it. I’ll have to walk”. Again, muttering to herself. 
 
-Sana leaves her block. It’s another dark and rainy day, lights of the city smudged and reflected off the street. It was fairly quiet so must have been early, she stopped at a street cart and ordered a nurocafe, a specialised caffeine shot which augments with Akata to allow 10% extra cognition. She bought it out of habit more than anything but secretly she hoped it would help her figure out what her next step should be. No Akata.
+Sana leaves her block. It’s another dark and rainy day, lights of the city smudged and reflected off the street. It was fairly quiet so must have been early, she stopped at a street cart and ordered a nurocafe, a specialised caffeine shot which augments with Akata to allow 10% extra cognition. She bought it out of habit more than anything but secretly she hoped it would help her figure out what her next step should be. 
+
+No Akata.
+
+Could such a thing really happen. She’d never heard of anyone _not_ having Akata installed. Sure, some people has faulty modules which didn’t always run the latest software but no Akata at all. That was something new, something terrifying and yet, perhaps if only slightly, liberating. 
+
+Sana decided that she needed to figure out whether Akata was gone for good or only temporarily disabled. But if she went through official protocol what would they do with her? Hopefully reinstall the implant and let her life return to normal. So she decided there was no real alternative, she has to talk to Kirostan. 
+
+Without Akata it was going to be a long and lonely walk to the Ministry building, but there was no alternative. 
+
+### Chapter 26
+Soum ordered noodles from a bar next to Meera’s apartment, synthetic fish and printed udon. He sat quietly for a moment watching the busy street full of cars, the rain bouncing off the road and windows. Up until now synthetic fish tasted fine to him, neither especially good or bad, but since tasting real fish with Zhou, this synthetic alternative left much to be desired. However the nostalgia and habit calmed him.
+
+He knew why his family had been taken, it was a risk when he began this journey. But a risk worth taking. It was likely that they had been moved “for their own safety” to a protected facility in anticipation of his return. Akata would have run the scenario and returned a probability of Soum returning, and as that was predictably high, the most sensible course of action was to move his family to a secured location.
+
+However Soum had planned that once the Interior Ministry retrieved his original body, they’d release his family and he’d be able to extract them to join Zhou and the Free People. That hadn’t happened and after although revealing himself to Sana was a risk, Soum felt he was pressed for time and had little choice. 
+
+He finished up his noodles and made his way up to Meera’s apartment. He knocked gently on the steel door, after some time a small hatch slid open and Meera’s eyes peered out. 
+
+“What do you want?!”
+
+She sounded agitated. Soum was concerned that if he misspoke he’d find himself without her help.
+
+“I need your help Meera. My family is being held by the Interior Ministry and I have no way of finding them. The only thing I can think of is to hack a backup node to see where they’re being held”
+
+Meera sighed. 
+
+“There is a node, the other side of the city, you’ll have to gain physical access to it and like all backup nodes it’s watched 24/7. Although Tokonoya’s Interior Ministry is woefully inefficient the automated systems around these nodes are actually pretty decent”. 
+
+“You can use your implant to access the node with but you have to be near-by. Let me get you a screen with the coordinates”.
+
+The shutter slides closed. 
+
+Soum waits patiently for a few minutes. His mind wanders to the logistics of crossing the city. He can use his implant to access public transport, but the risk of being flagged as _unusual_ or any way out of the ordinary was high. As soon as he was detected as abnormal in any way security forces would swoop in and take him for questioning. 
+
+The shutter slides open again. 
+
+“Here”
+
+Meera hands him a screen. 
+
+“You can use the screen or upload the coordinates to your implant”.
+
+“Thank you Meera...” Soum was stopped mid breath as Meera slides the shutter shut. 
+
+“That’s that then I suppose” though Soum. 
+
+He leaves the apartment complex staring at the screen Meera passed him. 
+
+### Chapter 27
+Zhou now knew, that a full cognitive transfer was possible with not only their implant, but the Tokonoyan implant too. 
+
+The ATV rolled into the underground bunker which formed part of the central hub of the complex network of the Free People. As it reached Zhou’s head quarters it slowed to let the team out, before driving off to park itself. 
+
+Zhou went directly to the underground train to make his way to Gerintek. She had been instrumental in transplanting Soum’s implant into the donated host. Although dark, the host had died naturally and Soum’s willingness to risk his life on such an experimental procedure offered an unprecedented opportunity. 
+
+Gerintek had extracted the hosts implant shortly after he died. He was subsequently placed in cryo in anticipation of this procedure. The unknown was whether Gerintek and her team were able to transfer Soum into this host, and program a new consciousness for Soum’s body. All of this had been simulated multiple times, but a simulation versus reality was very different. 
+
+“It was a success Gerintek, Soum’s body will have already been collected and there’s no doubt Tokonoyan authorities will identify it as him. You think we can refine the extraction process so we can store deceased implants for re-insertion at a later date?”
+
+“The ramifications of this successful experiment are huge Zhou, we should see if we can restore a consciousness into none organic matter. I’ve been working on a model that will allow us to upload an implant into a screen, or even have multiple consciousnesses reside in a single implant”.
+
+Zhou was no engineer, nor a philosopher, some of these ideas had never occurred to him. He sat at a nearby stool deep in thought. 
+
+“I think for now we should keep these developments to ourselves, I will talk to my team to ensure it goes not further. This is potentially dangerous information and we need to consider carefully whether we want to expose it”.
+
+“If we don’t, someone else will develop this tech”.
+
+Zhou thought over the options. The morality of this situation wasn’t clear to him.
+
+“At least anyone who wants to, should be free to transfer their consciousness to their implant; and from there have it secured after they die. But we need to establish some rules before opening this up”.
+
+Zhou began to see a clear path on how this development can be used, voluntarily and safely. He began to let himself get excited about the prospects. Pseudo immortality. The goal of humanity for millennia was now finally within reach. 
+
+“It’s been a long week Gerintek, thank you for all you’ve done here. We should talk about everything we’ve learned at the next shareholder meeting”.
+
+And with that Zhou made his way back to the train. Still deep in thought he sat alone whilst it quietly rushed towards his home. He hardly noticed that after a couple of stops, he was no longer sitting alone. To his right there was a young woman with an infant, the profoundness of the last few hours began to sink in. The sacrifice of Soum to lose is physical identity, not to mention the risk to his life, all to free his family from the shackles of Tokonoya. 
+
+Zhou was on the brink, he needed to go home and sleep before he broke down under the enormity of Gerintek’s discovery. 
