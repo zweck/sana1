@@ -959,3 +959,76 @@ Zhou began to see a clear path on how this development can be used, voluntarily 
 And with that Zhou made his way back to the train. Still deep in thought he sat alone whilst it quietly rushed towards his home. He hardly noticed that after a couple of stops, he was no longer sitting alone. To his right there was a young woman with an infant, the profoundness of the last few hours began to sink in. The sacrifice of Soum to lose is physical identity, not to mention the risk to his life, all to free his family from the shackles of Tokonoya. 
 
 Zhou was on the brink, he needed to go home and sleep before he broke down under the enormity of Gerintek’s discovery. 
+
+### Chapter 28
+After some time and little stimulation Sana reached the ministry district. She had lingered at the border for a while wondering what would happen as she crosses the threshold without Akata. 
+
+Most of Tokonoya is a mixture of living districts and manufacturing, mining and refinements. She’d managed to navigate through to the Ministry District without tripping any checkpoints, but entering without Akata would be impossible. 
+
+En route she had been considering her options. If Soum was right, then as soon as she entered the district she’d be apprehended and likely incarcerated. She’d heard about lunatics who had tried to resist the Akata implant for their children, the were arrested and held in detention centres. At the time Sana thought it was perfectly reasonable, why on earth wouldn’t you want Akata, day to day life in Tokonoya would be impossible without it. So denying your children Akata was impoverishing them which is against the law. It was the states duty to do what is right for the children and remove the negative parental influence. 
+
+Now however, her perspective had been altered. As an upstanding citizen she had no fear of being arrested, and although she didn’t voluntarily disable Akata, the question remains as the whether the authorities would believe her. Or if they’d even try to. 
+
+The rain was falling hard. Almost as if it was being thrown down from above to accelerate it to be faster than gravity. And the weight of it was pushing Sana into the ground. The decision to cross this invisible line was much tougher than she originally thought. Her whole life she never questioned the state; why would she, it was there to protect ever citizen of Tokonoya. But with Akata gone, and the suggestion from Soum that Akata is an agent of the state to control, as opposed to aid, it’s citizens. Had bored it’s way into Sana’s mind, and now she was stuck. The physical border a manifestation of her internal struggle. 
+
+The only way to know if Akata, or Soum is right, would be to cross the border and find Kirostan. 
+
+She stepped over the threshold and walked quickly towards the Ministry building.  
+
+### Chapter 29
+“Togeshi, we’ve been alerted an anomaly, grab your gear and let’s go!”
+
+“En route captain”.
+
+Togeshi walked down to the armoury to sign out his handgun. 
+
+“Akata, sitrep”. 
+
+“Togeshi, TPK have been alerted to an anomaly crossing the border into the ministry district”.
+
+The Tokonoya Peace Keepers were a branch of the police who dealt with dissidents and ensured social cohesion. 
+
+Togeshi signed for his weapon and left the precinct to get in the car Akata had waiting for him. He never knew the details of the operation, and frankly he didn’t care, if there were Tokonoyans disturbing the peace that was enough for him. 
+
+The car was heading towards the border of the ministry zone. This was the most heavily patrolled area of Tokonoya. Drones, sensors and TPK regularly patrol the perimeter. The car slowed as Togeshi’s screen vibrates. 
+
+Sana Itakisum - Age 34 - arrest on site. Considered dangerous. Avoid deadly force. Alerting bureau - Special Science Unit. 
+
+Next to those details was a picture of Sana, but oddly no tracking information. Akata should be relaying her position to Togeshi. 
+
+“Hmm”
+
+Togeshi was very confused. 
+
+“Gonna have to do it the old fashioned way, Akata, take me to the point at which Ms Itakisum entered the ministry district”. 
+
+The car sped along. 
+
+Togeshi found the rain pummelled the roof of the car, the white noise began to make him feel tired. He stared out of the window, his eyes focused on a young woman as he sped along. 
+
+### Chapter 30
+Sana half expected sirens to ring out the second she crossed over into the district. Instead nothing obvious happened, and for several kilometres she marched in the rain, following a busy road to the Interior Ministry office. Sana tried her hardest not to look into the cars as they raced past. It was only a matter of time before the TPK would come for her. 
+
+Every now and then she’d forget her predicament and look into a car, wishing she was warm and dry. 
+
+One vehicle was flying past especially fast, she glanced in an caught the eye of the passenger. She smiled nervously but in a blink he was gone. 
+
+She was only 10 minutes from the Interior Ministry, even though she was still conflicted, her decision was made and she was in autopilot. Like her body was marching whilst her mind was still grappling with the situation. 
+
+Kirostan was in his office when his screen buzzed. He looked to see the lobby screen calling, he looked puzzled at the drenched Sana. 
+
+“I’ll let you up now Sana”
+
+Having gathered that there was no other reason for Sana to be in touch via the lobby screen. He was however, eager to get the details from her. After a few minutes Sana emerged from the stairs, as lift use also required Akata. 
+
+“Sana. Tell me everything, and hurry because the TPK will likely be close behind”.
+
+Sana took a deep breath. She recounted events as accurately as she could remember, but when it got to explaining _why_ Dr Soum had fled in the first place, she omitted some details. 
+
+“That is a lot to process”.
+
+“The outlaws in the wastes can move consciousness between implants, as well as disable implants of Tokonoyan’s. I can only imagine he has undertaken this entire exercise to gift him that power”. 
+
+Kirostan said that last sentence to himself. 
+
+Kirostans screen lit up, his focus snapped to it and his face grew dark. 
