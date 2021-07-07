@@ -1113,3 +1113,76 @@ A later grid swept the room, it located Sana and layered a grid around her head 
 The entire procedure took a few seconds, what followed took significantly longer. Sana had to wait hours, alone. After which a short, narrow framed officer opened the door and gestured Sana to follow, walking down the corridor in silence they approached a steel door, opening it revealed an interrogation room. Sana walked in and sat at the table, the officer sat opposite and removed his screen from his pocket. 
 
 "Ms. Itskisum, you present a unique conundrum, from your records, work terminal logs and life surveillance you are a model citizen. A dedicated member of the Interior Ministry, living a seemingly blissful existence for the betterment of Tokonoya. On the other hand you have discovered a way to wipe your Akata logs and permanently disable him. Something we’ve only seen achieved by those in the wastes. Would you care to explain?"
+
+Sana went on to explain the encounter with Dr Soum. She made sure she covered off every detail she could remember, fearful that they already knew everything from the Akata scan and that any discrepancies would be seen as intentional misdirection. 
+
+Once she’d finished recounting the officer reviewed his screen closely, after a few moments she could see his screen flash red. He snapped it closed and then stood sharply, please follow me Ms. Itakisum. 
+
+This was not good, Sana could feel it in her stomach.
+
+### Chapter 34
+Togeshi marched Soum into the TPK headquarters, pride beaming from his every movement. _He_ had caught TOK87638/f, he knew nothing of the case aside from Akata classing it as a Class 1, which is the most urgent of cases. 
+
+He took TOK87638/f to the processing desk.
+
+"Interrogation room ready?" Togeshi asked. 
+
+"Yep, room 116B, next door to Ms Itakisum, save you a long walk between suspects".
+
+"Wonderful. You’ll be unable to scan this suspects implant so you need to fill the forms in manually. He’s a Class 1 so I’ll get him to the room and wait for the Interior Ministry to arrive, let me know?"
+
+The clerk at the reception nodded as Togeshi walked Soum to the interrogation room next to Sana’s. 
+
+He had no idea what TOK87638/f was in for, but he did now it was the first Class 1 case he’d seen. This was big, and he didn’t want to do anything to mess it up. Togeshi would follow the rules to a t on this one. 
+
+Togeshi marched Soum to room 116B, room A was where Sana was being held, which meant he could process her under the Domestic Terrorism charges and get her out of the way before the Interior Ministry arrived for Soum. 
+
+"It’s a good day to be Togeshi" he mumbled to himself. 
+
+Soum was calm, he’d let himself get caught, using his implant on unsuspecting Tokonoyans should be a last resort. An option which was becoming more and more likely. 
+
+He sat at the metal table in the interrogation room, as Togeshi left the room Soum thought he heard him mentioning Sana Itakisum to a colleague. "That would be an odd twist of fate" Soum thought. He hadn’t yet leaned to master his implant, but ever since it was enabled he had _senses_ about the world around him. Right now he could sense Sana next to him, the signature of her implant was already imprinted in his. He knew, although he may of heard wrong, he could feel that she must be in the room next door. 
+
+"Sana, Akata has reviewed your case", hope lifted Sana’s heart, this should quickly clear up any misunderstanding, "Akata has determined you as a domestic terrorist, disabling your implant to subvert…" Togeshi’s words blurred, Sana couldn’t focus on any of it, once those words "domestic terrorist" were uttered a dread washed over her. She knew what that meant. Tokonoya s labelled at domestic terrorists disappeared. Rumours were that they were often put into labour camps and worked to death. 
+
+A sharp high pitch noise started to grow in her head, she winced as the pain grew to an almost unbearable burning. After a few minutes it began to subside, Sana opened her eyes, the room was empty. Picking herself up off the floor she sat back down at the table, head in hands "what the hell was tha… wait, the door has moved"
+
+She rushed up and felt the wall as if it was masking the real door. How could it be.
+
+"Sana, it’s me, Soum"
+
+Sana turned, she saw no one else in the room, and yet Soum’s voice was right next to her. Then the realisation began to dawn, she was _in_ Soum.
+
+"Sana, I am in the room next to yours, I sensed your implant and wanted to try and communicate with it, I didn’t realise this would happen but I’m glad it did, we need to talk, I fear for your life Sana, these TPK are just the servants of Akata, they have no interest in the truth, no principles, they just do what Akata tells them for an easy life and just enough tokens to keep them quiet".
+
+"You need to get out of here, I can help, but it needs to be now".
+
+Sana thought for a minute, she’d issues enough warrants to know that domestic terrorists are at the very least, never heard of again. Soums words were hard to hear, there was a mixture of hard truths as well as things that had become apparent to her. She couldn’t help but feel some of the comments Soum made were an attack on her. One thing was certain, there was no easy way out of this situation, and Soum’s implant was far superior than she every realised. 
+
+### Chapter 35
+
+Zhou had decided to divulge Gerintek’s and his work to the shareholders. That meeting would be in two weeks but he wanted to talk to Gerintek and see how they could package this discovery as a product. Of course the idea of providing it for free crossed his mind as he mulled over the implications of their venture, but it would all too quickly become too expensive to manage and maintain. He needed more details from Gerintek before deciding what to do.
+
+He arrived to her lab and sat down on an office chair, leaning back and grinning whilst she finished off whatever it was she was working on. Typing away furiously she raised a finger to indicate she’s almost complete.
+
+"You look better today Zhou, I was a tad worried when you left, looked paler than usual!"
+
+"Yeah, I quickly came to realise that this is a wonderful development, a gift to all the Free People, immortality, just saying it makes me feel almost silly, but it’s true".
+
+"It is very much true Zhou, like I was saying yesterday, I think it’d be easily possible to transfer someone’s consciousness into a screen too. Currently I think we’re limited to transferring rather than cloning though". 
+
+Zhou raised is eyebrows indicating Gerintek should continue. 
+
+"Yeah, that’s where we went wrong with the first few attempts, the original host was fine but the cloned consciousness was corrupt. The last ditch attempt with Soum was an all or nothing, we transferred his entire consciousness onto our modified implant. Then extracted the implant and to our surprise, and relief, Soum was intact!"
+
+"So what is it about our implants that allow us to do this?"
+
+"Well, it took some serious innovation Zhou, I know my lab has sucked up a lot of resources, what we have developed is a breakthrough in implant hardware, which has unlocked a new generation of software".
+
+"This prototype implant uses a neural, decentralised architecture that can store a living consciousness. We then have written software which maps the hosts neurology, and neurone by neurone transfers the host to the implant".
+
+Zhou clapped his hands and smiled. 
+
+"This is it Gerintek. This new implant is the Grail".
+
+After some more conversation Zhou assured Gerintek that he would convince the shareholders to provide her with whatever funding and resources she needed. Not only has this secured the future of the company, it’s secured the future of all Free People. Again the ideas almost lifted him off the floor.  
