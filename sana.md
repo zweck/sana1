@@ -1186,3 +1186,38 @@ Zhou clapped his hands and smiled.
 "This is it Gerintek. This new implant is the Grail".
 
 After some more conversation Zhou assured Gerintek that he would convince the shareholders to provide her with whatever funding and resources she needed. Not only has this secured the future of the company, it’s secured the future of all Free People. Again the ideas almost lifted him off the floor.  
+
+
+He left the lab and immediately asked his implant to schedule a shareholders meeting. He’d instructed Gerintek to continue her research specifically focusing on solidifying the prototype into a product that can be mass produced. Zhou’s wording of the meeting invite resulted in rapid replies from all the major shareholders. Next week he’d reveal their innovation. 
+
+### Chapter 36
+
+"Ok Soum, what do you propose?"
+
+"I can try and disable your TPK captures to allow you to escape, however Akata will be able to track you with ease unless I also disable your implant. The only option I can think of is to get you out of the building, then disable Akata and take you to a Free People’s operative myself".
+
+Sana’s stomach churned, she’s spend her life hunting down Free People’s operatives and spies in Tokonoya. This would seal her fate as a domestic terrorist in Tokonoya, she’d have to leave and join those huddled in the wastes. She hesitated for a moment to think of an alternative, her mind was severely conflicted and close to breakdown. Was her hesitation even her own? Or Akata infiltrating her thoughts and bending them. The paranoia was strong, she cut through it like a knife with a single, simple decision. 
+
+"Yes, let’s do it!"
+
+Soum disconnected from Sana and waited to hear her door open, whilst her body remained limp in the room next door the TPK had called on a medic to see to her. Nothing could be planned, Soum just had to act on instinct, or perhaps he was just trusting his implant. 
+
+He focused on controlling is implant, disabled the first TPK to enter the room.
+
+Sana watched in amazement as the medic entering the room just froze, she could see their eyes moving frantically. She knew all too well what that felt like. Leaning out of the room she could see a long corridor terminating in a T junction, there was a guard outside Soum’s room, also frozen still. She hesitantly steps out, Sana can see the guards eyes focus on her but he still doesn’t move. Shake in Sana moves the guards hand to the door handle and opens it, swinging it firmly from the other side Soum appears in the doorway.
+
+"Let’t go!"
+
+With little resistance they manage to rush out of the building, Sana just blindly followed Soum until suddenly she could see the sky and smell the warm, damp city. 
+
+"It’s time Sana, Akata will be alerting all networks of your escape".
+
+A Soum controlled taxi stops in front of them, the door opens. Soum smiles at Sana before beginning the exercise of disabling Akata when suddenly a load crack echoed out. Sana’s body was thrown forward. Soum looked around and could see a team of 4 TPK in full military regalia aiming at him too. He focuses with all his energy on them, they freeze in place unable to move. Then Soum drags Sana into the taxi and instructs it to drive to Meera, he overrides the speed limit control and disables the Akata module. 
+
+"Sana?"
+
+She looked lifeless, he felt for a pulse, nothing. 
+
+Soum then did the only thing he could think of, connect to her the way he did in the cells. 
+
+Sana opened her eyes, she looked down and almost blacked out. There she was, dead on her lap, well, on Soum’s lap.

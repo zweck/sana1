@@ -42,3 +42,4 @@ Sana is an analyst at the Interior Ministry for the city state of Tokonoya, but 
 - [Chapter 33](https://github.com/zweck/sana1/blob/master/sana.md#chapter-33)
 - [Chapter 34](https://github.com/zweck/sana1/blob/master/sana.md#chapter-34)
 - [Chapter 35](https://github.com/zweck/sana1/blob/master/sana.md#chapter-35)
+- [Chapter 36](https://github.com/zweck/sana1/blob/master/sana.md#chapter-36)
