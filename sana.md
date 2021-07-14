@@ -24,7 +24,7 @@ She starts flicking through her todos for the day. Something catches her eye. Sh
 
 Sana arrives at the office. 
 
-It’s a huge building. In the centre of the city along with all the other major government departments. Only official vehicles are allowed in the ever growing ministry district, yet another advantage of the implant. Enables automatic authorization of visitors.
+It’s a huge building in the centre of the city along with all the other major government departments. Only official vehicles are allowed in the ever growing ministry district, yet another advantage of the implant. Enables automatic authorization of visitors.
 
 The city was divided into residential and worker districts with worker districts divided by ministry, utilities and factory districts. 
 
@@ -116,7 +116,7 @@ A few seconds later the door opens. "Hello Ms Itakisum, please come in". There w
 
 "So you know why I’m here Mrs Soum, what can you tell me about your husbands state of mind a few days before he went missing? Anything out of the ordinary?" Sana asks whilst taking a seat on the sofa. 
 
-"Well" Mrs Soum glances in the living room to see if her 2 children are eavesdropping. "He has seemed preoccupation for a few days now, not as attentive with me or the children. He said he had a lot of stress at work, especially with the recent series of blackouts. But we’d had worse situations before and it didn’t seem to affect him anywhere near as much".
+"Well" Mrs Soum glances in the living room to see if her 2 children are eavesdropping. "He has seemed preoccupied for a few days now, not as attentive with me or the children. He said he had a lot of stress at work, especially with the recent series of blackouts. But we’d had worse situations before and it didn’t seem to affect him anywhere near as much".
 
 "Do you know why your husband may have visited the waste disposal facility near the city walls?"
 
