@@ -1221,3 +1221,115 @@ She looked lifeless, he felt for a pulse, nothing.
 Soum then did the only thing he could think of, connect to her the way he did in the cells. 
 
 Sana opened her eyes, she looked down and almost blacked out. There she was, dead on her lap, well, on Soum’s lap.
+
+### Chapter 37
+
+Banging on Meera’s door Soum nervously looked down the corridor, expecting TPK at any moment to show up. He’d done his best to hide from them, and after leaving the taxi with Sana’s body in it he instructed it to continue driving towards the outer gates. 
+
+Now he found himself at the only safe house he could think of, he focused his implant to sense if Meera was inside. She wasn’t, as far as he could tell the apartment was completely empty. He then focused on the door, was it controlled or manual? If the former he _should_ be able to breach the door system and let himself in. 
+
+After a few moments the door slid open and revealed a small, dark apartment, one wall lined with screens with a desk in front. On the opposite side was a bed and kitchenette. 
+
+Soum quickly closed and locked the door behind him, re-encrypting the lock to ensure even Meera would have to knock to gain access. 
+
+He grabs a glass of water and sits leaning forward at the desk, shaking he tries to control his breath. A good sleep might help, or at least a lie down, but first he opens Meera’s fridge and rustles around for something to eat. Spotting a Blitz Bag he grabs it out and snaps the heat bar, after a couple seconds he opens up the bag which beings to stiffen into a bowl. Soum doesn’t even look for utensils, he just drains the ramen into his mouth, tosses the bowl aside and jumps on the bed. Physically exhausted, Soum closes his eyes and easily drifts into a deep sleep. 
+
+Sana wakes up like a bulb being turned on, for a second she looks for Paolo, her holodog, before remembering that she is in fact, dead, ish. Awake but in darkness the realisation that she is a mere passenger in Soum’s body hits her again. "How can this even be?" She didn’t let herself question things too deeply, right now she figured her best bet was to get to the technicians in the wastes, those so called Free People who made Soum’s implant, perhaps they can help her or at the very least, delete her. 
+
+Euthanasia is a drastic step, but the alternatives were stark. As she waited for Soum to wake she begun to experiment a little with what she _could_ do in her current form. She tries to focus on Soum’s body, driving all her energy to moving a hand. After a few minutes of trying Sana comes to the realisation that, with his eyes closed, she might not be able to tell if his hand is moving at all. 
+
+"Ok, so the eyes", Sana drives her focus to his eyes, willing them to open. After a few minutes she sees a flash of white, dazzling her until it mellows back into the view of Meera’s apartment again. 
+
+"Ha! I did it!"
+
+"Did what?" Replied Soum aloud. 
+
+"I woke you Soum?"
+
+"I don’t think so"
+
+"Hmm, I’ll continue to explore this later" Sana thinks. 
+
+"Meera’s still not here" Soum said with concern sewn through his voice. 
+
+"We’ll wait a couple hours but if she doesn’t turn up, we’ll have to try and get my family out of here without her help". 
+
+"In the mean time let’s grab a coffee and see if we can find an anonymous screen to connect to". 
+
+### Chapter 38
+
+Liana Soum was hyperventilating, she’d woken up in the night to her children screams cut silent, shadowy figures above her seconds before it faded to black. She couldn’t tell why or how, but her senses had been completely disabled. As if they’d been switched off, leaving her to her thoughts of terror. The only sensation she had, was that of her own breath. Anguish came in waves. The unknown torturing her. "Where are her children… and where is her husband"
+
+A sense of smell, subtle began to stream in. It was damp vegetation. You could identify it easily as it was so rare, it was only really available in simulators. So where was she? I’m a sim or out of Tokonoya? 
+
+### Chapter 39
+
+"Right Sana, it’s been hours and there’s still no sign of Meera, I can’t wait any longer!"
+
+During their wait Soum had found a small firearm, it felt unnecessary as his implant could do all the damage and defence he’d need. But there’s no harm in pocketing it for now. 
+
+He’d also found an anonymous screen to use. It was segregated from AkataWeb, there was a map of Tokonoya with Alata access points mapped out. The screen was locked down but again, Soum’s implant had no trouble cracking even Meera’s code. 
+
+He grabbed a bag, threw in some supplies, the hand gun and screen.
+
+"Right Sana, from what I can tell we’re about 2km from an Akata access point with relatively little protection. A handful of TPK stationed there and some firewalls, nothing Soum couldn’t handle. 
+
+He makes his was to the street, although his implant would give him the ability to sequester a vehicle, on foot felt like the safer, more flexible option. The afternoon was fresh, cool and clear, the sun was bright and warm out of the shade. 
+
+"So when we get to this access point, you’re planning of hacking directly into Akata to locate your family?"
+
+"Pretty much"
+
+"Don’t you think it’s too risky, I know your implant is superior to an Akata node, but the full power of Akata would be too much, even for you!"
+
+"Do you have another suggestion?"
+
+"Yes. Actually. I mean, I don’t really want to help a terrorist, but I want you to live more than I want to stop you hacking Akata"
+
+Right and wrong are concepts foreign to Sana now, she feels that neither Soum nor the Tokonoyan state are morally right. Akata is a social force of good, sure it’s at the sacrifice of privacy but that’s worth it for the greater good. Evidence in the last 2 days however had shown that to be questionable. It was almost too easy for the TPK to misinterpret the situation and then she was at blame; but she’s just 1 person. If Akata’s existence saves more lives than it forsakes, it’s a force for good. Isn’t it?
+
+She pushes these thoughts for another day. Right now she should tell Soum how to gain access to his families location. 
+
+"You don’t need to hack Akata, you just need to hack his databases, at the access point there will be a copy of the Tokonoyan ministry database. It’s copied into every access point. It’s a colossal amount of data, although not The Archive it should hold sufficiently new enough data for our needs"
+
+Soum and Sana made their way to the access point. Darting down side streets to minimise exposure to face recognition cameras and heart rate sensors. Soum could digitally hide his face from the cameras but even that would raise red flags. 
+
+### Chapter 40
+
+"The entrance is here somewhere" thought Meera, hunting around in the dirt for the stone which activated the signal to Zhou’s cell. She’d fled Tokonoya almost as soon as she’d realised the power of Soum’s implant, and his intentions to infiltrate the TPK.
+
+The protocol was clear, she’d signal via a disguised rock her heart rhythm and implant code to Zhou’s cell. Who’d then lock onto her with a drone and come and pick her up.
+
+Zhou was just getting ready for his meeting. His heart fluttered again with nerves, this was a life defining moment for him. 
+
+Opening his screen and pointing it to a wall a projection of the connecting call appeared. This was it.
+
+"Good morning Ladies and Gentlemen, we have some exciting news about a breakthrough in our R&D department with regards to our implant transfer program. Gerintek, our lead implant scientist has found a path to the Grail".
+
+Audible gasps could be heard from shareholders. Some excited murmurs began to spread amongst them. The Grail had been a small skunkworks project to try and transfer consciousness to the digital realm. A dream of humanity for centuries. 
+
+After absorbing the excitement for a moment, Zhou continued, "This breakthrough came focusing on the next generation of implant, these new implants are a decentralised neural net, with vast processing power capable of storing thousands of hosts consciousnesses. What’s more is that the more implants in use, the more we can store".
+
+Zhou paused to allow for the shareholders to absorb this development and ask any questions.
+
+"Zhou, you mentioned transfer, but could a consciousness be cloned, or transferred prior to death? As a kind of backup?"
+
+"The true possibilities of this technology aren’t known yet. What you ask is entirely possible but without further research and development, we won’t really know. What we can tell you is that Gerintek was only able to make this breakthrough after the Soum experiment. Once successful it paved the way for our understanding of the limitations in hardware. Even though Dr Soum had a uniquely developed implant to support the consciousness transfer. The process wasn’t without issue, which to summarise meant the probability of success was around 10%, with a 90% probability of consciousness loss".
+
+"This new generation of implant initially looks to of increased that success probability to 20%".
+
+Some disgruntled noises came from the shareholders as what, on the face of it, still appeared to be a low number.
+
+"We want to make this 20%, 100%; but for now we are focusing on finalising the existing design and recommending only for post-termination transfer". 
+
+"We have put significant resources into this program, and this is the culmination of decades of work, but we need more. Even to get what we have to market we need a significant injection of capital".
+
+That’s it, he gave it his best sales pitch. Eternal life within reach, it’s not really a hard one to sell. 
+
+Zhou was in the middle of answering a flurry of questions when a notification on his screen made him stop in his tracks. Meera had used an emergency signal just a few kilometres from Tokonoya. 
+
+Hesitating for a moment Zhou wondered what the best play was here, he could pause the call and send a team to collect her, but given their history he’d be much more comfortable going himself. 
+
+"Ladies and Gentlemen, I’m afraid somethings come up and I must leave, I have sent you all an address to forward funds anonymously, hopefully it will be enough to push this development into a product. Thank you all for your time".
+
+Zhou’s implant sensed the calls end and closed the feed. 
