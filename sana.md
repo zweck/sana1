@@ -1333,3 +1333,89 @@ Hesitating for a moment Zhou wondered what the best play was here, he could paus
 "Ladies and Gentlemen, I’m afraid somethings come up and I must leave, I have sent you all an address to forward funds anonymously, hopefully it will be enough to push this development into a product. Thank you all for your time".
 
 Zhou’s implant sensed the calls end and closed the feed. 
+
+
+### Chapter 41
+
+Sana sensed something strange. Like a sense of being watched. She couldn’t really explain it. 
+
+Soum turned the last corner to see a secure, fenced off facility. There were no obvious human guards which likely meant he just needs to disable the surveillance and get himself to the archive node. 
+
+Using his implant he began to scan, Sana focused, trying to detect whether she could sense the scan her new host was performing. She didn’t really know what the goal was here, but if she could perhaps detect and even control Soum’s implant, she might be able to help him, or perhaps understand her own predicament and existence a bit better. 
+
+She could just sense Soum’s implant scanning for nearby vulnerabilities. One will exist, it’s just the length to which the implant needs to go to exploit it. After a few seconds the implant had detected an insecure wireless signal. After making short work of the signal Soum’s implant was able to control the entire facility. It was fascinating, Sana realised right then that not only is Tokonoyan infrastructure woefully compromised, but The Free Peoples implant technology is far superior to their own, which is the exact opposite narrative in Tokonoya. 
+
+Ordinarily these thoughts alone might of sent the average state employee reeling; but given Sana’s current situation, she just filed this off into the "pretty surprising but totally believable" section of her… well, not her brain, her consciousness".
+
+Soum received the all clear from his implant and casually walked straight into the facility. Simply opening previously locked doors and ignoring high security surveillance. 
+
+Quickly making his way to the archive access room. That door didn’t open. The thick steel bolted vault door employed more traditional security measures. Although the door was bolted, there would be an electromechanical lock, which means as long as he can tune his implant to the correct control system, he’d have access. 
+
+Again Sana focused to see if she could detect the implants actions. It was much stronger this time, Sana clearly sensed the implant accessing and scanning the various facility security systems. Suddenly the implants attention was torn away from the task at hand to a TPK broadcast note; their presence had been detected and the TPK were on their way. The implant calculated that they had approximately 20 minutes to achieve their goal. All of this Sana sensed as if the implant was _her_ implant. 
+
+This information was also understood by Soum. 
+
+"No panic", he said aloud, "lets just focus on unlocking this door".
+
+A few minutes later the implant had successfully infiltrated the door control security system, after some load mechanical noises the vault door swung open slowly. 
+
+Lights flickered on. 
+
+The empty room consisted of a handful of ominous large black cube within bright white walls. Slum squinted from the glare, his implant reacted quickly to neutralise the reaction in Soum’s optic receptors, allowing him to see clearly almost immediately. 
+
+"Now what?" Sana wondered. "There must be an access point somewhere here". 
+
+Soum started to inspect the cube, he couldn’t see anything obvious. 
+
+"TPK, eta 15 minutes" came the voice of Soum’s implant.
+
+"Sana, you keep an eye on the TPK, I’ll search the walls for the access point".
+
+Sana was puzzled for a minute, what does he mean "keep an eye", then she quickly realised that Soum wanted her to sense the signals from the implant updating them on the TPK’s proximity.
+
+Soum scoured the white walls of the room, after a few minutes he detected the screen activation button. A touch sensitive patch that would wirelessly connect, grabbing his screen Soum connected and immediately started to search for any information on his family. He found the files when suddenly Sana interrupted. 
+
+"You’ll have to just download them and get out Soum, the TPK are at the entrance of this facility"
+
+Soum grabbed the files, pocketed his screen and left the room, leaving the opposite way he came in in an attempt, to avoid the TPK. 
+
+
+### Chapter 42
+
+After walking down side streets for a mile or so Soum couldn’t wait any longer, he opened his screen and browsed the cache of files he’d downloaded. It was hard reading, his entire family had been interrogated, pressurised, and ultimately tortured by the state. 
+
+The data was too difficult for Soum to handle, he began to shake, hyperventilating in distress. Sana instinctively grabbed the screen and started to flick through the various outputs to find the families current whereabouts. Soon she located them in a detention facility in the edges of Tokonoya. This was bad, she knew what happened to people who ended up there and although she felt most of detainees deserved to be there, this family was innocent. 
+
+With what was going on Sana almost didn’t realise that she was in fact controlling Soum, using his hands to hold and manipulate the screen. She’d not taken him over, but rather was sharing his physical form. The second she realised consciously what was happening her ability to control him disappeared. This new existence was intriguing, she hadn’t yet fully engaged with the implant she was calling home but she knew there was more she could do. 
+
+After a few minutes, she spoke to the slightly calmer Soum. 
+
+"I know where they are… but we’ve got to hurry before it’s too late. I see no choice than to get another cab across the city, it’ll alert the TPK as soon as we leave the district but if we don’t leave now, there’s little hope for you family". 
+
+With this, Soum stood and hastened towards the nearest road, he used his implant to call for a cab, within less than a minute it was in front of them and they were speeding to the detention centre. 
+
+In the cab Sana couldn’t help let her mind wander to try and process the days events. She begun to zone out, not really sleep, she wasn’t even sure if she could dream now.
+
+Sana stumbles out of her bed. Her room is a mess. She hits the button and her bed slides away giving her access to her wardrobe. She presses another button and a mirror flips round. Standing naked in front of it she begins to stare into the distance. "Dressed, I need to get dressed", walking over to her small wardrobe Sana removes some black pants and a grey top. Throwing some food credits at her dog she left her apartment and rushed downstairs to grab a car to work. 
+
+"Whoa", Sana zoned back in.
+
+"What’s up?" asked Soum, in a state of utter depression. 
+
+"Nothing, I think I just actually managed to dream".
+
+"Oh, thats nice" murmured the reply. 
+
+"We’re about to leave the district Soum, perhaps we should hack the cab to ensure it avoids TPK and maybe even goes off grid?"
+
+"Sure, whatever you think Sana". 
+
+Soum picked his screen up, Sana could feel it in her hand too.
+
+"Soum, use your implant, it’ll take too long with the screen"
+
+The recent revelation of his families current situation had destabilised Soum, he was both in shock, and in a state of deep depression and contemplation. 
+
+"The implant? Oh, yes, of course".
+
+Soum then engaged with his implant to command it to hack the cab. After a few minutes the report came back that the hack was successful. Taking the cab off grid would of alerted the TPK, the implant had found a route with minimal surveillance which only added a few minutes to the journey. 
