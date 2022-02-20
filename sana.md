@@ -1419,3 +1419,11 @@ The recent revelation of his families current situation had destabilised Soum, h
 "The implant? Oh, yes, of course".
 
 Soum then engaged with his implant to command it to hack the cab. After a few minutes the report came back that the hack was successful. Taking the cab off grid would of alerted the TPK, the implant had found a route with minimal surveillance which only added a few minutes to the journey. 
+
+The hacked cab slows as Soum and Sana reach the detention facility. As they disembark Sana suggests that they scan the area for security personnel. 
+
+A few seconds later the implant reports that there are no personnel present. Worryingly it also reported that there are no detainees either. 
+
+They rush towards the facility. It was dark, the front gates open. Lights flickered in the buildings. Soum heart began to race. They entered through an open door to see utter devastation, lying in a row were the bodies of executed detainees and workers. 
+
+The horror shook both Soum and Sana to the core, they could barely walk. Courage forced them to press on. Stumbling towards the forty or so bodies Soum started to scan the faces of the deceased, hoping not to see his wife and children. Freezing he sees a hand, one he recognised all too well. Sudden grief overwhelmed him. They were there, all of them, together in the end. 
