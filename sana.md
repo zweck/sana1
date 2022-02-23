@@ -1427,3 +1427,55 @@ A few seconds later the implant reports that there are no personnel present. Wor
 They rush towards the facility. It was dark, the front gates open. Lights flickered in the buildings. Soum heart began to race. They entered through an open door to see utter devastation, lying in a row were the bodies of executed detainees and workers. 
 
 The horror shook both Soum and Sana to the core, they could barely walk. Courage forced them to press on. Stumbling towards the forty or so bodies Soum started to scan the faces of the deceased, hoping not to see his wife and children. Freezing he sees a hand, one he recognised all too well. Sudden grief overwhelmed him. They were there, all of them, together in the end. 
+
+
+### Chapter 43
+
+Zhou was en-route in an ATV with his team to collect Meera, she’d been a vital component in the communication channel in and out of Tokonoya. They arrive to find Meera hiding in a hollow near the emergency signal, presumably to remain out of site of Tokonoya patrol drones. 
+
+"It’s been a while Zhou" she said as she climbed into the back of the vehicle. "I’m sorry, I know this is a huge blow for your operations", Meera knew how pivotal her role was for the freedom efforts of Zhou’s organisation. 
+
+"Meera, you have nothing to apologise for, we’ve achieved so much together, but tell me, what happened?"
+
+"It was Soum, Zhou. Specifically his implant and his plans. I fear he’ll try to brink down the whole system, Akata and all. I fear Akata’s death throes will be harsher and more violent than the mass indoctrination of the past century". 
+
+Zhou contemplated this for a while in silence. He’d never considered what the consequences of Soum’s actions might be. The means were clear, to provide Soum with the tools and freedom needed to find and free his family from the clutches of a controlling totalitarian system. Soum had discovered the truth for himself, made contact with the Free Poeple and volunteered himself for the transplant procedure. 
+
+All of Soum’s decisions were freely made. Zhou’s involvement was driven by a desire to bring an end to Ankara’s tyranny, but how will that end be brought? How much does that matter? Zhou can’t control what Soum does, that would be against the very principles of the Free People. Fighting for freedom and individual choice. The temptation was high to begin to blame himself for any fallout from Soum’s actions. He couldn’t control what Soum did, but he could control himself, and he could argue his case with the other members of his organisation. 
+
+"I’m glad you’ve come, you’ve made me realise that perhaps I should intervene. I will talk to the board and shareholders to discuss a possible operation inside Tokonoya to assist Soum directly whilst using our experience of Akata to minimise impact".
+
+Upon returning Zhou requested for a board meeting, in the past a board meeting was a physical, in-person affair. Now, all he had to do was compile a motion and it would be circulated amongst the members, they could agree or amend asynchronously until consensus was reached. All of this occurred with their implants. This whole process never took longer than a few days, often just taking a few hours. Zhou has worked for this organisation for 15 years, he knew how to format and sculpt a motion in order to receive as few amendments as possible. 
+
+In this case the motion was simple, Zhou was proposing to enter Tokonoya and retrieve Soum. Firstly in order to stop the destabilisation of Tokonoya, the peoples freedom must be achieved in a more nuanced way. The second reason was to protect the organisations intellectual property. If Soum was captured or killed, his implant would fall into the hands of the TPK, and although they don’t have the expertise to understand its power, the risk was not worth taking. 
+
+This reasoning required no amendments, unanimity was achieved within an hour by the board. A memo was sent to the shareholders and Zhou arranged to go himself to extract Soum the next day. 
+
+The speed and efficiency in the Free Lands was unparalleled. Lacking the bureaucratic bottlenecks and box ticking of Tokonoya, decisions were swiftly made and executed. 
+
+
+### Chapter 44
+
+"Soum it’s me, Zhou, I have been waiting for you".
+
+Zhou approached Soum with his hand outstretched to help him off the floor.
+
+"I am truly sorry Soum, I had no idea this was to be their fate".
+
+Soum, still in shock merely gazed at Zhou, his face grey and deep in thought. 
+
+A thought crossed Zhou’s mind. With their most recent developments with the Grail project, he could possible preserve Soum’s families consciousness. How would he even suggest this to him, perhaps it would be best if he discretely attempted to download the data in their implants.
+
+Tokonoyan implants, although needing power for their host to function, could receive a small charge via a mild electromagnetic pulse. That may produce enough of a charge to clone the data on the implant. 
+
+Zhou helped Soum sit on a nearby chair, once set down he slumped into his hands and sobbed. 
+
+It was then, that Zhou placed his head on Soum’s wife’s. He attempted to scan her implant with his. After a few seconds without a response Zhou realised that he’d need to somehow power her implant. Removing his screen from his pocket he began to pull it apart, looking around the room he saw a desk lamp, unscrewing the base Zhou was able to remove a length of cable. After a few moments he’d managed to connect the cable to terminals in his screens power generator. Placing the other ends on Soum’s wife’s implant scar he simultaneously switched on his screen whilst scanning for her activated implant. 
+
+He was amazed when he could see her implant spring to life. After a few seconds of shock he swiftly commanded his implant to initiate a data clone. "I don’t care what’s on there, just grab it all he thought".
+
+After a few moments it was complete. He repeated the step for Soum’s children. Zhou had to remain abstract and objective, the reality of this situation was frightening and to dwell on it too much would of likely made him stop. Once complete Zhou stood to find Soum staring at him again. 
+
+"Is this it Zhou? Is this what we have come to? Just a bunch of bytes on a drive in our head? What is the human experience now?"
+
+"I don’t know Soum, we have some developments from your experiment which could allow us to connect you to your family. That’s all I was… I mean, I don’t know, I’m sorry".
